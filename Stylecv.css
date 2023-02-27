@@ -42,12 +42,13 @@ height: 150%;}
      float:left;
         padding-top: 30px;
        padding-left: 50px;
+       padding-right: 100px;
     }
 #divexperiencia {
     float: left;
-    padding-top:  15px;;
+    padding-top:  25px;;
    padding-left: 50px;
-    padding-bottom: 130px;   
+    padding-bottom: 50px;   
 }
 .Experiencia {
     padding-top: 15px;
@@ -55,12 +56,15 @@ height: 150%;}
      text-align: left;  
 }
 #cualidades {
+    padding-top: 15px;
     font-size: 20px;
     text-align: left;
     padding-right: 120px;
+
 }
 #divcualidades {
 float: left;
+padding-top: 80px;
 padding-left: 50px;
 }
 .contacto { 
